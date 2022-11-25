@@ -1,13 +1,13 @@
 ---
 title: 'Convert an IP address to IP number with PHP, ASP, C# and VB.Net'
 excerpt: 'Here are the functions in PHP, ASP, C# and VB.Net to convert and IP address from dot format to IP number format.'
-coverImage: '/assets/blog/convert-ip-address/cover.jpg'
+coverImage: '/assets/blog/convert-ip-address/earthlights.jpg'
 date: '2006-11-28T05:35:07.322Z'
 author:
   name: Justin Cook
   picture: '/assets/blog/authors/jc.jpg'
 ogImage:
-  url: '/assets/blog/convert-ip-address/cover.jpg'
+  url: '/assets/blog/convert-ip-address/earthlights.jpg'
 ---
 
 So you've retrieved the visitor's IP address. If you're just logging or tracing it, that's all you need to do. However, if you want to match it to an IP location database, you can't search by the IP in the IPV4 format. It needs to be converted to its IP number equivalent (it is just more efficient to store and search between a range of numbers in database). Here are the functions in PHP, ASP, C# and VB.Net to convert and IP address from dot format to IP number format.
