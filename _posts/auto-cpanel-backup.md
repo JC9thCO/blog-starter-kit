@@ -1,6 +1,6 @@
 ---
 title: 'Automatic cPanel backup (domain & MySQL) with cron & PHP'
-excerpt: 'Achedule cPanel backups to run at regular intervals with cron.'
+excerpt: 'Schedule cPanel backups to run at regular intervals with cron. Handy for monolithic LAMP environments.'
 coverImage: '/assets/blog/auto-cpanel-backup/monster.jpg'
 date: '2006-12-27T05:35:07.322Z'
 author:
