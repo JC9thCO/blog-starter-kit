@@ -8,7 +8,6 @@ const Footer = () => {
         <div className="py-28 flex flex-col lg:flex-row items-center">
           <h3 className="text-4xl lg:text-[2.1rem] font-bold tracking-tighter leading-tight text-center lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2">
             Drop me a line!
-          </h3>
             <form name="contact" method="POST" data-netlify="true">
               <p>
                 <label>Your Email: <input type="email" name="email" /></label>
@@ -20,6 +19,7 @@ const Footer = () => {
                 <button type="submit">Send</button>
               </p>
           </form>
+          </h3>
           <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
             <a
               href="https://www.9thco.com/"
