@@ -11,10 +11,10 @@ const Footer = () => {
           </h3>
             <form name="contact" method="POST" data-netlify="true">
               <p>
-                <label>Your Email: <input type="email" name="email" /></label>
+                <label>Your Email: <input type="email" name="email" size="30" /></label>
               </p>
               <p>
-                <label>Message: <textarea name="message"></textarea></label>
+                <label>Message: <textarea name="message"  rows="3" cols="40"></textarea></label>
               </p>
               <p>
                 <button type="submit">Send</button>
