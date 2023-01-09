@@ -19,7 +19,7 @@ export default function Index({ allPosts }: Props) {
     <>
       <Layout>
         <Head>
-          <title>Justin Cook's Blog</title>
+          <title>Justin Cook's Blog | President of Internet Marketing & Development | 9thCO Toronto</title>
         </Head>
         <Container>
           <Intro />
