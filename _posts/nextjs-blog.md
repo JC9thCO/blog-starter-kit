@@ -1,8 +1,8 @@
 ---
-title: 'Next.js is the future of the web'
-excerpt: 'I am beyond excited to be learning the Next.js framework as well as the overall Jamstack architecture. I will share my learnings here.'
+title: 'Jamstack is the future of the web'
+excerpt: 'I am beyond excited to be learning Jamstack, the Next.js framework as well as related tools and technologies within the JavaScript ecosystem. I will share my learnings here.'
 coverImage: '/assets/blog/nextjs-blog/to.jpg'
-date: '2022-11-20T05:35:07.322Z'
+date: '2023-01-09T14:35:07.322Z'
 author:
   name: Justin Cook
   picture: '/assets/blog/authors/jc.jpg'
@@ -10,7 +10,9 @@ ogImage:
   url: '/assets/blog/nextjs-blog/to.jpg'
 ---
 
-This is where I'll continuously document my learnings pertaining to Next.js, Jamstack, and other fascinating technologies. 
+I am beyond excited to be learning Jamstack, the Next.js framework as well as related tools and technologies within the JavaScript ecosystem. I will share my learnings here.
+
+Feel free to reach out and email me at <jc@9th.co> with any questions or R&D recommendations!
 
 ## For Posterity
 
