@@ -35,7 +35,7 @@ GraphQL is a querying language that allows you to create schemas that describe a
 
 ## tRPC
 tRPC stands for TypeScript Remote Procedure Call - a lightweight library for remotely calling backend functions on client side
-![tRPC](https://assets.trpc.io/www/v10/v10-dark-landscape.mp4 "tRPC")
+![tRPC](/assets/blog/trpc-vs-graphql/trpc.png "tRPC")
 
 1. Requires TypeScript on both your backend and frontend
 2. Frontend uses composable procedures to remotely call backend data
