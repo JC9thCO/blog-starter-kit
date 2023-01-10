@@ -1,6 +1,6 @@
 ---
 title: 'Netlify ignores redirects in next.config.js'
-excerpt: 'When deploying my site on Netlify, I couldn't get redirects to work in next.config.js. Here's how.'
+excerpt: 'When deploying my site on Netlify, I couldn't get redirects to work in next.config.js. Here\'s how.'
 coverImage: '/assets/blog/arrows.jpg'
 date: '2023-01-10T15:35:07.322Z'
 author:
