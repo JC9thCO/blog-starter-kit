@@ -6,6 +6,8 @@ date: '2023-01-10T15:35:07.322Z'
 author:
   name: Justin Cook
   picture: '/assets/blog/authors/jc.jpg'
+ogImage:
+  url: '/assets/blog/netlify-redirects/arrows.jpg'
 ---
 
 I recently migrated my old programming blog from Wordpress to the Jamstack, using a statically generated site running Next.js and deployed on Netlify. Since most of my programming articles were from 2006 or before, most were useless and received no traffic. 
