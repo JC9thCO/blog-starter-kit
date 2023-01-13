@@ -4,16 +4,14 @@
 
 @layer base {
     article ul, article ol {
-        @apply list-inside;
+        @apply list-outside;
     }
 
     article ul {
         @apply list-disc;
-        @apply list-inside;
     }
 
     article ol {
         @apply list-decimal;
-        @apply list-inside;
     }
 }
