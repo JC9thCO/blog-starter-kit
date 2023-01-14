@@ -4,7 +4,7 @@
 
 @layer base {
     article ul, article ol {
-        @apply list-outside;
+        @apply list-outside pl-4;
     }
 
     article ul {
